@@ -4,6 +4,8 @@ This is a simple example of how to use vertex animation textures with React Thre
 
 I used Custom Shader Material to create the shaders because it provides a nicer DX imo.
 
+[Live Demo](https://r3f-webgl-vertex-animation-textures.vercel.app)
+
 ![Vertex Animation Textures](./VAT-header.jpg)
 
 Feel free to use this code in your projects.
