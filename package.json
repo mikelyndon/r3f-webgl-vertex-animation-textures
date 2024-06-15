@@ -1,8 +1,13 @@
 {
-  "name": "r3f-vat",
+  "name": "r3f-webgl-vertex-animation-textures",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "9.106.2",
+    "@react-three/fiber": "8.16.8",
+    "leva": "0.9.35",
+    "three": "0.165.0",
+    "three-custom-shader-material": "5.4.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,6 +15,10 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-react-app": "7.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "packageManager": "pnpm@9.0.6+sha512.f6d863130973207cb7a336d6b439a242a26ac8068077df530d6a86069419853dc1ffe64029ec594a9c505a3a410d19643c870aba6776330f5cfddcf10a9c1617"
 }
